@@ -7,7 +7,7 @@ Unicode emojilarni rasm yoki bbcodega o'girish
 include 'Emojiparser.php';
 use Con\Emojiparser;
 $ed = new Con\Emojiparser([
-  'image_url' => 'smiles',
+	'image_url' => 'images',
 	'width' => 24,
 	'height' => 24
 ]);
